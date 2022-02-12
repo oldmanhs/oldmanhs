@@ -1,4 +1,4 @@
-"👋 Hi, I’m @oldmanhs
+'👋 Hi, I’m @oldmanhs'
 - 👀 I’m interested in Home Assistant
 - 🌱 I’m currently learning Home Assistant
 - 💞️ I’m looking to collaborate on Home Assistant
